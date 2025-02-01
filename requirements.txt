@@ -2,3 +2,4 @@ pydantic
 flask
 logging
 Flask
+gunicorn
