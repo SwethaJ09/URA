@@ -1,4 +1,4 @@
 pydantic
-fastapi
+flask
 logging
 gunicorn
